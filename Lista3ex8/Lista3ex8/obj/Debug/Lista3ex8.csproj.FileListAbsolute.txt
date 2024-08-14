@@ -1,0 +1,7 @@
+C:\Users\Francielle\source\repos\Lista3ex8\Lista3ex8\bin\Debug\Lista3ex8.exe.config
+C:\Users\Francielle\source\repos\Lista3ex8\Lista3ex8\bin\Debug\Lista3ex8.exe
+C:\Users\Francielle\source\repos\Lista3ex8\Lista3ex8\bin\Debug\Lista3ex8.pdb
+C:\Users\Francielle\source\repos\Lista3ex8\Lista3ex8\obj\Debug\Lista3ex8.csproj.AssemblyReference.cache
+C:\Users\Francielle\source\repos\Lista3ex8\Lista3ex8\obj\Debug\Lista3ex8.csproj.CoreCompileInputs.cache
+C:\Users\Francielle\source\repos\Lista3ex8\Lista3ex8\obj\Debug\Lista3ex8.exe
+C:\Users\Francielle\source\repos\Lista3ex8\Lista3ex8\obj\Debug\Lista3ex8.pdb
